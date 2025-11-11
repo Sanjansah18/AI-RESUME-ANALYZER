@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e720b652-68a7-462e-a9d0-7c5665815240
+**URL**: https://preview--spark-resume-analyzer.lovable.app/ 
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e720b652-68a7-462e-a9d0-7c5665815240) and start prompting.
+Simply visit the [Lovable Project](https://preview--spark-resume-analyzer.lovable.app/ and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
